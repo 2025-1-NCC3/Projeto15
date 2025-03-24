@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.myapplication">
+
+    <!-- Configurações do aplicativo -->
+    <application
+        android:allowBackup="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MaterialComponents.Light.NoActionBar">
+
+        <!-- Atividade principal do aplicativo (tela inicial) -->
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"> <!-- Necessário para Android 12+ pois contém intent-filter -->
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Tela de cadastro -->
+        <activity android:name=".CadastroActivity" android:exported="false" /> <!-- Não é acessível por aplicativos externos -->
+
+        <!-- Tela inicial após login -->
+        <activity android:name=".HomeActivity" android:exported="false" />
+
+    </application>
+</manifest>
