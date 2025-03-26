@@ -26,7 +26,7 @@ Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
 May the force be with you!
 <br><br>
 
-## 🛠 Estrutura de pastas
+## 📌 Estrutura de pastas
 
 -Raiz<br>
 |<br>
