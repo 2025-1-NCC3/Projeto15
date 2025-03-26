@@ -6,8 +6,6 @@
 
 # Projeto 15 - Lady Driver
 
-## Nome do Grupo
-
 ## Integrantes: <a href="https://www.linkedin.com/in/Carlos Latorre/">Carlos Latorre</a>, <a href="https://www.linkedin.com/in/Felipe Lin/">Felipe Lin</a>, <a href="https://www.linkedin.com/in/Felipe Wakasa/">Felipe Wakasa</a>, <a href="https://www.linkedin.com/in/Fernanda Loura/">Fernanda Loura</a>, 
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/Victor Rosetti/">Victor Rosetti</a>, <a href="https://www.linkedin.com/in/Vinicius Heltai/">Vinicius Heltai</a>, <a href="https://www.linkedin.com/in/Katia Bossi/">Katia Bossi</a>, <a href="https://www.linkedin.com/in/Marco Aurelio/">Marco Aurelio</a>
