@@ -1,4 +1,4 @@
-# Aplicativos cadastro de clientes.
+# Aplicativos cadastro de Usuários.
 _Aplicativos cadastro de cliente desenvolvido na **linguagem de programação JAVA** + banco de dados **SQLite** + **XML** utilizando a **IDE Android Studio**. Neste projeto você encontra um **CRUD completo**_.
 #### _Principais funções_:
 - [x] _Cadastro_.
