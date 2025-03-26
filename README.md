@@ -17,11 +17,9 @@
   
 </p>
 
-
 ## ⚡ Aplicativo Seguro
 <br>Imagine sair tarde de uma festa e poder acionar um serviço por aplicativo de um transporte seguro, em que você terá certeza que será atendido por uma motorista mulher. Além de se sentir mais à vontade, você também terá o conforto e a segurança de saber que não está vulnerável enquanto mulher. 
 O Lady Driver foi criado exatamente para isso, para conectar passageiras a motoristas mulheres, garantindo maior segurança nas viagens em qualquer hora do dia.<br>
-<br><br>
 <br><br>
 
 ## 📌 Estrutura de pastas
