@@ -23,18 +23,20 @@ O Lady Driver foi criado exatamente para isso, para conectar passageiras a motor
 <br><br>
 
 ## 📌 Estrutura de pastas
-
-├── documentos/
-│   ├── Entrega01
-│   │  └── Análise Descritiva de Dados/
-│   │  └── Programação Orientada a Objetos e Estrutura de Dados/
-│   ├── Banco de Dados/
-├── img/
-├── src/
-│   ├── Entrega01
-│   │  └── frontend/
-│   │  └── backend/
-└── readme.md
+-Raiz<br>
+|<br>
+|-->documentos<br>
+  &emsp;|-->antigos<br>
+  &emsp;|Documentação.docx<br>
+|-->executáveis<br>
+  &emsp;|-->windows<br>
+  &emsp;|-->android<br>
+  &emsp;|-->HTML<br>
+|-->imagens<br>
+|-->src<br>
+  &emsp;|-->Backend<br>
+  &emsp;|-->Frontend<br>
+|readme.md<br>
 
 A pasta raiz contem dois arquivos que devem ser alterados:
 
