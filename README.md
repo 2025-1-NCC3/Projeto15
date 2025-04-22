@@ -17,7 +17,7 @@
 
 
 ## ⚡ Aplicativo Seguro
-<br> Aplicativo que permite que os utilizadores solicitem viagens e entregas, além de oferecer funcionalidades para motoristas e utilizadores, como rastreamento de viagem e comunicação com o motorista .<br>
+<br> Aplicativo mobile que permite aos usuários solicitarem viagens seguras, com foco na proteção, rastreamento e confiabilidade durante todo o trajeto. Desenvolvido para oferecer uma experiência tranquila tanto para passageiros quanto para motoristas .<br>
 <br><br>
 
 ## 📌 Estrutura de pastas
