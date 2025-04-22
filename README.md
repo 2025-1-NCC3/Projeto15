@@ -64,20 +64,6 @@ Há também 4 pastas que seguem da seguinte forma:
 
 ---
 
-### 🔹 Windows
-
-1. Vá até a pasta `executáveis/windows`.
-2. Execute o arquivo `UberSeguro.exe`.
-
----
-
-### 🔹 HTML (Versão Web)
-
-1. Acesse a pasta `executáveis/HTML`.
-2. Abra o arquivo `index.html` em qualquer navegador.
-
----
-
 ## 💻 Configuração para Desenvolvimento
 
 ### Android
