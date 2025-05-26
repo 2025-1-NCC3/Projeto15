@@ -4,7 +4,7 @@
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# ✨ Projeto 15 - Aplicativo Mobile Uber
+# ✨ Projeto 15 - VoiceShield
 
 ## Integrantes: <a href="https://www.linkedin.com/in/Carlos Latorre/">Carlos Latorre</a>, <a href="https://www.linkedin.com/in/Felipe Lin/">Felipe Lin</a>, <a href="https://www.linkedin.com/in/Felipe Wakasa/">Felipe Wakasa</a>, <a href="https://www.linkedin.com/in/Fernanda Loura/">Fernanda Loura</a>, 
 
@@ -17,7 +17,7 @@
 
 
 ## ⚡ Aplicativo Seguro
-<br> Aplicativo mobile que permite aos usuários solicitarem viagens seguras, com foco na proteção, rastreamento e confiabilidade durante todo o trajeto. Desenvolvido para oferecer uma experiência tranquila tanto para passageiros quanto para motoristas .<br>
+<br> Aplicativo mobile que permite aos usuários solicitarem viagens seguras, com foco na proteção, rastreamento e confiabilidade durante todo o trajeto, podendo pedir ajuda por meio de um comando de voz. Desenvolvido para oferecer uma experiência tranquila tanto para passageiros quanto para motoristas .<br>
 <br><br>
 
 ## 📌 Estrutura de pastas
